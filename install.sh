@@ -14,7 +14,7 @@ curl -o ~/.git-prompt.sh https://raw.githubusercontent.com/git/git/master/contri
 echo "" >> ~/.zshrc
 echo "# Git Bash-like shell settings for zsh" >> ~/.zshrc
 echo "source ~/.git-prompt.sh" >> ~/.zshrc
-# Add the 
+# Add the customization to .zshrc
 echo "PS1=\"%F{green}\`whoami\`@%m%f %F{yellow}%~%f %F{cyan}\"'\$(__git_ps1 \" (%s)\")'\"%f\"\$'\x5cn'\"\$ \"" >> ~/.zshrc
 echo "" >> ~/.zshrc
 
