@@ -12,7 +12,7 @@ Paste the following code and run it in the **`Terminal`** app
 /bin/zsh -c "$(curl -fsSL https://raw.githubusercontent.com/g497813927/git-bash-over-zsh/main/install.sh)"
 ```
 
-Then you have successfully installed~
+Then restart the **`Terminal`** app, and you have successfully installed~
 
 ## Uninstallation
 

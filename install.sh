@@ -17,5 +17,3 @@ echo "source ~/.git-prompt.sh" >> ~/.zshrc
 # Add the customization to .zshrc
 echo "PS1=\"%F{green}\`whoami\`@%m%f %F{yellow}%~%f %F{cyan}\"'\$(__git_ps1 \" (%s)\")'\"%f\"\$'\x5cn'\"\$ \"" >> ~/.zshrc
 echo "" >> ~/.zshrc
-
-source ~/.zshrc
